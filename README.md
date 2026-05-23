@@ -7,7 +7,7 @@ Changes:
 - Ladder Blocked
 - Fixed Collisions
 - Changes couches, added arm wrestling stand and some general object clean up and fixes
-- Changed Changing room wall textures, stopped ped spawns in office
+- Changed changing room wall textures, stopped ped spawns in the office
 
 
 # Credits
