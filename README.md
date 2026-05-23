@@ -14,3 +14,7 @@ A minor rework and update of the [Benny's Lowrider V1](https://forum.cfx.re/t/fr
 - Original Map Creator: https://mxaizen-map.tebex.io/
 - False Hope Designs: https://falsehopedesigns.tebex.io/
 - Popcorn Roleplay: https://discord.gg/popcornroleplay
+
+# License
+
+In line with Agea59's original post, you may edit and use this on your server. No commercial rights or resale rights were given.
